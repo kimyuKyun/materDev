@@ -1,0 +1,6 @@
+[submodule "Sub"]
+	path = Sub
+	url = https://github.com/kimyuKyun/Sub.git
+[submodule "hello-world"]
+	path = hello-world
+	url = https://github.com/kimyuKyun/hello-world.git
